@@ -2,6 +2,7 @@ package com.zwb.part1._24suspend_resume_LockStop;
 
 /**
  * @Desc:
+ * 注：out对象是静态的
  * 程序运行到println()方法内部被暂停时，同步锁未被释放，使得main()方法中的println也不能执行
  *
  * @Author: zwb
