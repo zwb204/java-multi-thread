@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="246a117f-6241-411c-b176-663703d0266e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_26thread_priority/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_26thread_priority/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_26thread_priority/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_27thread_prioirty2/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_27thread_prioirty2/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_27thread_prioirty2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_28thread_prioirty3/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_28thread_prioirty3/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_28thread_prioirty3/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_29daemonThread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-01/src/com/zwb/part1/_29daemonThread/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/part-01/com/zwb/part1/_24suspend_resume_LockStop/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/part-01/com/zwb/part1/_24suspend_resume_LockStop/Run.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,13 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run">
-    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zwb.part1._27thread_prioirty2.Run" />
+  <component name="RunManager" selected="Application.Run (1)">
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zwb.part1._29daemonThread.Run" />
       <module name="part-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zwb.part1._27thread_prioirty2.*" />
+          <option name="PATTERN" value="com.zwb.part1._29daemonThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zwb.part1._24suspend_resume_nosameValue.Run" />
+    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zwb.part1._27thread_prioirty2.Run" />
       <module name="part-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zwb.part1._24suspend_resume_nosameValue.*" />
+          <option name="PATTERN" value="com.zwb.part1._27thread_prioirty2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.Run (2)" />
         <item itemvalue="Application.Run (5)" />
         <item itemvalue="Application.Run (4)" />
-        <item itemvalue="Application.Run (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +143,7 @@
       <workItem from="1592284882649" duration="8038000" />
       <workItem from="1592317397339" duration="4144000" />
       <workItem from="1592355582006" duration="25471000" />
-      <workItem from="1592438723700" duration="1135000" />
+      <workItem from="1592438723700" duration="2322000" />
     </task>
     <servers />
   </component>
