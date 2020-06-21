@@ -2,117 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="246a117f-6241-411c-b176-663703d0266e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_11synchronizedDisadvantage/CommonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_11synchronizedDisadvantage/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_11synchronizedDisadvantage/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_11synchronizedDisadvantage/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_11synchronizedDisadvantage/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_12synchronizedOneThreadIn/ObjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_12synchronizedOneThreadIn/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_12synchronizedOneThreadIn/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_12synchronizedOneThreadIn/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_13synchronizedCodeBlock/CommonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_13synchronizedCodeBlock/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_13synchronizedCodeBlock/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_13synchronizedCodeBlock/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_13synchronizedCodeBlock/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_14synchronizedTest/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_14synchronizedTest/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_14synchronizedTest/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_14synchronizedTest/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_15doubleSynBlockOneTwo/ObjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_15doubleSynBlockOneTwo/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_15doubleSynBlockOneTwo/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_15doubleSynBlockOneTwo/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_16synchronizedThis/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_16synchronizedThis/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_16synchronizedThis/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_16synchronizedThis/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_17synBlockString/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_17synBlockString/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_17synBlockString/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_17synBlockString/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_18synBlockString2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_18synBlockString2/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_18synBlockString2/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_18synBlockString2/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_19syn_out_asyn/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_19syn_out_asyn/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_19syn_out_asyn/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_19syn_out_asyn/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_20syn_out_asyn2/MyOneList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_20syn_out_asyn2/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_20syn_out_asyn2/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_20syn_out_asyn2/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_20syn_out_asyn2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_21syn_not_this1/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_21syn_not_this1/Run1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_21syn_not_this1/Run1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_21syn_not_this1/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_21syn_not_this1/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_21syn_not_this1/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_22syn_not_this2/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_22syn_not_this2/Run1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_22syn_not_this2/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_22syn_not_this2/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_22syn_not_this2/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_23syn_not_this3/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_23syn_not_this3/Run1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_23syn_not_this3/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_23syn_not_this3/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_23syn_not_this3/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_24synStaticMethod/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_24synStaticMethod/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_24synStaticMethod/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_24synStaticMethod/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_25synTwoLock/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_25synTwoLock/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_25synTwoLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_25synTwoLock/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_25synTwoLock/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_26synMoreObjectStaticOneLock/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_26synMoreObjectStaticOneLock/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_26synMoreObjectStaticOneLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_26synMoreObjectStaticOneLock/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_27synBlockMoreObjectOneLock/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_27synBlockMoreObjectOneLock/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_27synBlockMoreObjectOneLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_27synBlockMoreObjectOneLock/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_28synString/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_28synString/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_28synString/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_28synString/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_29synString2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_29synString2/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_29synString2/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_29synString2/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_30twoStop/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_30twoStop/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_30twoStop/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_30twoStop/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_31twoNoStop/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_31twoNoStop/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_31twoNoStop/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_31twoNoStop/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_32deadLockTest/DealThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_32deadLockTest/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_33innerClass/PublicClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_33innerClass/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_34innerStaticClass/PublicClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_34innerStaticClass/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_35innerTest1/OutClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_35innerTest1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_36innerTest2/OutClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_36innerTest2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_37setNewStringTwoLock/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_37setNewStringTwoLock/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_37setNewStringTwoLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_37setNewStringTwoLock/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_38setNewPropertiesLockOne/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_38setNewPropertiesLockOne/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_38setNewPropertiesLockOne/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_38setNewPropertiesLockOne/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_38setNewPropertiesLockOne/UserInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -267,7 +156,7 @@
       <workItem from="1592438723700" duration="23574000" />
       <workItem from="1592491292768" duration="568000" />
       <workItem from="1592528786149" duration="24791000" />
-      <workItem from="1592709581708" duration="12491000" />
+      <workItem from="1592709581708" duration="13760000" />
     </task>
     <servers />
   </component>
