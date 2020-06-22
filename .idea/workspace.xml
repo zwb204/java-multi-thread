@@ -2,13 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="246a117f-6241-411c-b176-663703d0266e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_40threadRunnable/PrintString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_40threadRunnable/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_41threadRunnable2/PrintString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_41threadRunnable2/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_42volatileTest/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_42volatileTest/RunThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_42volatileTest/synchronized和volatile比较.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_43volatileTestThread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_43volatileTestThread/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_44atomicIntegerTest/AddCountThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_44atomicIntegerTest/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_45atomicIntegerNoSafe/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_45atomicIntegerNoSafe/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_45atomicIntegerNoSafe/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_46synchronizedUpdateNewValue/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_46synchronizedUpdateNewValue/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_46synchronizedUpdateNewValue/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-02/src/com/zwb/part2/_46synchronizedUpdateNewValue/ThreadB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part-02/com/zwb/part2/_38setNewPropertiesLockOne/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/part-02/com/zwb/part2/_38setNewPropertiesLockOne/Run.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="multi-thread" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,25 +53,25 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zwb.part1._26thread_priority" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zwb.part2._46synchronizedUpdateNewValue" />
+      <recent name="com.zwb.part2._42" />
+      <recent name="com.zwb.part2._41threadRunnable2" />
+      <recent name="com.zwb.part2._38setNewPropertiesLockOne" />
+      <recent name="com.zwb.part2._37setNewStringTwoLock" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-02\src\com\zwb\part2\_31twoNoStop" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-02\src\com\zwb\part2\_30twoStop" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-02\src\com\zwb\part2\_29synString2" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-02\src\com\zwb\part2" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-02\src\com\zwb\part2\_23syn_not_this3" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zwb.part2._38setNewPropertiesLockOne" />
-      <recent name="com.zwb.part2._37setNewStringTwoLock" />
-      <recent name="com.zwb.part2._36innerTest2" />
-      <recent name="com.zwb.part2._34innerStaticClass" />
-      <recent name="com.zwb.part2._30twoStop" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zwb.part1._26thread_priority" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -66,11 +88,11 @@
   </component>
   <component name="RunManager" selected="Application.Run">
     <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zwb.part2._34innerStaticClass.Run" />
+      <option name="MAIN_CLASS_NAME" value="com.zwb.part2._43volatileTestThread.Run" />
       <module name="part-02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zwb.part2._34innerStaticClass.*" />
+          <option name="PATTERN" value="com.zwb.part2._43volatileTestThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zwb.part2._35innerTest1.Run" />
+      <option name="MAIN_CLASS_NAME" value="com.zwb.part2._44atomicIntegerTest.Run" />
       <module name="part-02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zwb.part2._35innerTest1.*" />
+          <option name="PATTERN" value="com.zwb.part2._44atomicIntegerTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zwb.part2._36innerTest2.Run" />
+      <option name="MAIN_CLASS_NAME" value="com.zwb.part2._45atomicIntegerNoSafe.Run" />
       <module name="part-02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zwb.part2._36innerTest2.*" />
+          <option name="PATTERN" value="com.zwb.part2._45atomicIntegerNoSafe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +140,11 @@
       </method>
     </configuration>
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zwb.part2._38setNewPropertiesLockOne.Run" />
+      <option name="MAIN_CLASS_NAME" value="com.zwb.part2._46synchronizedUpdateNewValue.Run" />
       <module name="part-02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zwb.part2._38setNewPropertiesLockOne.*" />
+          <option name="PATTERN" value="com.zwb.part2._46synchronizedUpdateNewValue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,9 +155,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Run" />
-        <item itemvalue="Application.Run (5)" />
         <item itemvalue="Application.Run (4)" />
         <item itemvalue="Application.Run (3)" />
+        <item itemvalue="Application.Run (2)" />
         <item itemvalue="Application.Run (2)" />
       </list>
     </recent_temporary>
@@ -156,7 +178,8 @@
       <workItem from="1592438723700" duration="23574000" />
       <workItem from="1592491292768" duration="568000" />
       <workItem from="1592528786149" duration="24791000" />
-      <workItem from="1592709581708" duration="13760000" />
+      <workItem from="1592709581708" duration="16697000" />
+      <workItem from="1592787230735" duration="9538000" />
     </task>
     <servers />
   </component>

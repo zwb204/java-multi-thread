@@ -1,0 +1,9 @@
+synchronized和volatile比较：
+
+1）volatile是线程同步的轻量级实现，所以volatile性能比synchronized好，而且volatile只能用于修饰变量，而synchronzied可修饰方法以及代码块。
+
+2）多个线程访问volatile不会发生阻塞，而synchronized会出现阻塞
+
+3）volatile能保证数据的可见性，但不能保证原子性；而synchronized可以保证原子性，也可以间接保证可见性，因为他会将私有内存和公有内存中的数据做同步。
+
+4)volatile解决的是变量在多个线程之间的可见性；而synchronized解决的是多个线程之间访问资源的同步性。
