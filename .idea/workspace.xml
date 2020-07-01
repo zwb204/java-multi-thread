@@ -2,104 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="246a117f-6241-411c-b176-663703d0266e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/part-03/part-03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_10waitHasParamMethod/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_12waitOld/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_12waitOld/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_12waitOld/Subtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_12waitOld/ThreadAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_12waitOld/ThreadSubtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_12waitOld/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_13p_c_test/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_13p_c_test/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_13p_c_test/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_13p_c_test/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_13p_c_test/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_13p_c_test/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_14p_c_all_wait/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_14p_c_all_wait/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_14p_c_all_wait/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_14p_c_all_wait/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_14p_c_all_wait/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_14p_c_all_wait/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_15p_c_all_wait_fix/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_15p_c_all_wait_fix/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_15p_c_all_wait_fix/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_15p_c_all_wait_fix/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_15p_c_all_wait_fix/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_15p_c_all_wait_fix/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_16p_c_stack/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_17p_c_stack2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_17p_c_stack2/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_17p_c_stack2/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_17p_c_stack2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_17p_c_stack2/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_17p_c_stack2/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_18p_c_stack3/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_18p_c_stack3/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_18p_c_stack3/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_18p_c_stack3/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_18p_c_stack3/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_18p_c_stack3/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_19p_c_stack4/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_19p_c_stack4/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_19p_c_stack4/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_19p_c_stack4/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_19p_c_stack4/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_19p_c_stack4/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_1twoThreadTransData/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_1twoThreadTransData/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_1twoThreadTransData/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_1twoThreadTransData/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_20pipeInputOutput/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_20pipeInputOutput/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_20pipeInputOutput/ThreadRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_20pipeInputOutput/ThreadWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_20pipeInputOutput/WriteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_21pipeReaderWriter/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_21pipeReaderWriter/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_21pipeReaderWriter/ThreadRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_21pipeReaderWriter/ThreadWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_21pipeReaderWriter/WriteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_22wait_notify_insert_test/BackupA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_22wait_notify_insert_test/BackupB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_22wait_notify_insert_test/DBTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_22wait_notify_insert_test/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_2test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_2test/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_3Test2/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_3Test2/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_3Test2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_4wait_notify_size/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_4wait_notify_size/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_4wait_notify_size/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_4wait_notify_size/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_5waitReleaseLock/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_5waitReleaseLock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_5waitReleaseLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_5waitReleaseLock/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_6notifyHoldLock/NotifyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_6notifyHoldLock/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_6notifyHoldLock/SynNotifyMethodThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_6notifyHoldLock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_6notifyHoldLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_7waitInterruptException/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_7waitInterruptException/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_7waitInterruptException/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_8notifyOne/NotifyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_8notifyOne/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_8notifyOne/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_8notifyOne/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_8notifyOne/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_8notifyOne/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_9notifyAll/NotifyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_9notifyAll/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_9notifyAll/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_9notifyAll/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_9notifyAll/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-03/src/part3_1/_9notifyAll/ThreadC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_01joinTest1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_01joinTest1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_02joinTest2/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_02joinTest2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_03joinException/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_03joinException/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_03joinException/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_03joinException/ThreadC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_04joinLong/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_04joinLong/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_05join_sleep_1/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_05join_sleep_1/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_05join_sleep_1/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_05join_sleep_1/ThreadC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_06join_sleep_2/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_06join_sleep_2/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_06join_sleep_2/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_06join_sleep_2/ThreadC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_07joinTest3/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_07joinTest3/RunFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_07joinTest3/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-03/src/part3_2/_07joinTest3/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Sonn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2/Son2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/part-03/part3_1/_22wait_notify_insert_test/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/part-03/part3_1/_22wait_notify_insert_test/Run.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -126,30 +58,30 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/part-03/src/part3_1/_21pipeReaderWriter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/part-03/src/part3_2/_06join_sleep_2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zwb.part1._26thread_priority" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="part3_1._22wait_notify_insert_test" />
-      <recent name="part3_1._21pipeReaderWriter" />
-      <recent name="part3_1._20pipeInputOutput" />
-      <recent name="part3_1._16p_c_stack" />
-      <recent name="part3_1._14p_c_all_wait" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\IDEAProjects\multi-thread\part-03\src\part3_2\_06join_sleep_2" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-03\src\part3_1\_21pipeReaderWriter" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-03\src\part3_1\_19p_c_stack4" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-03\src\part3_1\_18p_c_stack3" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-03\src\part3_1\_17p_c_stack2" />
-      <recent name="F:\Projects\IDEAProjects\multi-thread\part-03\src\part3_1\_15p_c_all_wait_fix" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="part3_2._07joinTest3" />
+      <recent name="test2" />
+      <recent name="part3_2._02joinTest2" />
+      <recent name="part3_1._22wait_notify_insert_test" />
+      <recent name="part3_1._21pipeReaderWriter" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zwb.part1._26thread_priority" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -164,13 +96,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run (4)">
+  <component name="RunManager" selected="Application.Run (2)">
     <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3_1._19p_c_stack4.Run" />
+      <option name="MAIN_CLASS_NAME" value="part3_2._06join_sleep_2.Run" />
       <module name="part-03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3_1._19p_c_stack4.*" />
+          <option name="PATTERN" value="part3_2._06join_sleep_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,37 +111,11 @@
       </method>
     </configuration>
     <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3_1._20pipeInputOutput.Run" />
+      <option name="MAIN_CLASS_NAME" value="part3_2._07joinTest3.Run" />
       <module name="part-03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3_1._20pipeInputOutput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3_1._21pipeReaderWriter.Run" />
-      <module name="part-03" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3_1._21pipeReaderWriter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3_1._22wait_notify_insert_test.Run" />
-      <module name="part-03" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3_1._22wait_notify_insert_test.*" />
+          <option name="PATTERN" value="part3_2._07joinTest3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +124,37 @@
       </method>
     </configuration>
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3_1._18p_c_stack3.Run" />
+      <option name="MAIN_CLASS_NAME" value="part3_2._05join_sleep_1.Run" />
       <module name="part-03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3_1._18p_c_stack3.*" />
+          <option name="PATTERN" value="part3_2._05join_sleep_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3_2._07joinTest3.RunFirst" />
+      <module name="part-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part3_2._07joinTest3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3_1._2test.Test1" />
+      <module name="part-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part3_1._2test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run (4)" />
-        <item itemvalue="Application.Run (3)" />
         <item itemvalue="Application.Run (2)" />
+        <item itemvalue="Application.RunFirst" />
         <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +204,11 @@
       <workItem from="1593346215261" duration="611000" />
       <workItem from="1593394832908" duration="23000" />
       <workItem from="1593480194379" duration="1746000" />
-      <workItem from="1593495940077" duration="3182000" />
+      <workItem from="1593495940077" duration="13523000" />
+      <workItem from="1593519467647" duration="136000" />
+      <workItem from="1593519637940" duration="73000" />
+      <workItem from="1593527662645" duration="3191000" />
+      <workItem from="1593561963944" duration="3188000" />
     </task>
     <servers />
   </component>
