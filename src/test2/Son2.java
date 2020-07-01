@@ -9,17 +9,17 @@ import test.Father;
  **/
 public class Son2 extends Father {
 
-    public void aMethod(){
-        System.out.println("son2--aMethod");
-    }
-
-    protected void bMethod(){
-        System.out.println("son2----bMethod");
-    }
+//    public void aMethod(){
+//        System.out.println("son2--aMethod");
+//    }
+//
+//    protected void bMethod(){
+//        System.out.println("son2----bMethod");
+//    }
     public static void main(String[] args) {
-        Son2 s = new Son2();
+        Father s = new Son2();
         s.aMethod();
-        s.bMethod();
+//        s.bMethod();
     }
 
 }

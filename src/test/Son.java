@@ -7,7 +7,7 @@ package test;
  **/
 public class Son extends Father {
     public static void main(String[] args) {
-        Son s = new Sonn();
+        Father s = new Sonn();
         s.aMethod();
         s.bMethod();
     }
