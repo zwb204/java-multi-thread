@@ -2,22 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="246a117f-6241-411c-b176-663703d0266e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_01ReadWriteLockBegin1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_01ReadWriteLockBegin1/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_01ReadWriteLockBegin1/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_01ReadWriteLockBegin1/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_02ReadWriteLockBegin2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_02ReadWriteLockBegin2/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_02ReadWriteLockBegin2/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_02ReadWriteLockBegin2/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_03ReadWriteLockBegin3/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_03ReadWriteLockBegin3/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_03ReadWriteLockBegin3/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_03ReadWriteLockBegin3/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_04ReadWriteLockBegin4/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_04ReadWriteLockBegin4/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_04ReadWriteLockBegin4/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part-04/src/part4_2/_04ReadWriteLockBegin4/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/part-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/Timer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_01timerTest1/Run1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_01timerTest1/Run1TimerIsDaemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_01timerTest1/Run2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_01timerTest1/Run2Later.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_02timerTest2/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_02timerTest2/Run2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_02timerTest2cancel/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_02timerTest2cancel/Run2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_02timerTest2cancel/Run3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_04timerTest4/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_05scheduleAtFixedRate/Run1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_05scheduleAtFixedRate/Run2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_05scheduleAtFixedRate/Run3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part-05/src/_05scheduleAtFixedRate/Run4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,22 +57,22 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.zwb.part1._26thread_priority" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="part4_2._01ReadWriteLockBegin1" />
-      <recent name="part4_1._18isLocked" />
-      <recent name="part4_1._07UseManyConditionRight" />
-      <recent name="part4_1._06UseManyConditionError" />
-      <recent name="part4_1._02ConditionTestMoreMethod" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-04\src\part4_2\_04ReadWriteLockBegin4" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-04\src\part4_2" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-04\src\part4_2\_03ReadWriteLockBegin3" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-04\src\part4_2\_02ReadWriteLockBegin2" />
       <recent name="F:\Projects\IDEAProjects\multi-thread\part-04\src\part4_1\_23awaitUninterruptibly2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_05scheduleAtFixedRate" />
+      <recent name="part4_2._01ReadWriteLockBegin1" />
+      <recent name="part4_1._18isLocked" />
+      <recent name="part4_1._07UseManyConditionRight" />
+      <recent name="part4_1._06UseManyConditionError" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zwb.part1._26thread_priority" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -86,13 +87,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run (1)">
-    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4_2._04ReadWriteLockBegin4.Run" />
-      <module name="part-04" />
+  <component name="RunManager" selected="Application.Run4">
+    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04timerTest4.Run" />
+      <module name="part-05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4_2._04ReadWriteLockBegin4.*" />
+          <option name="PATTERN" value="_04timerTest4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4_1._25condition123.Run" />
-      <module name="part-04" />
+    <configuration name="Run1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05scheduleAtFixedRate.Run1" />
+      <module name="part-05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4_1._25condition123.*" />
+          <option name="PATTERN" value="_05scheduleAtFixedRate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4_2._02ReadWriteLockBegin2.Run" />
-      <module name="part-04" />
+    <configuration name="Run2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05scheduleAtFixedRate.Run2" />
+      <module name="part-05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4_2._02ReadWriteLockBegin2.*" />
+          <option name="PATTERN" value="_05scheduleAtFixedRate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4_2._03ReadWriteLockBegin3.Run" />
-      <module name="part-04" />
+    <configuration name="Run3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05scheduleAtFixedRate.Run3" />
+      <module name="part-05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4_2._03ReadWriteLockBegin3.*" />
+          <option name="PATTERN" value="_05scheduleAtFixedRate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4_2._01ReadWriteLockBegin1.Run" />
-      <module name="part-04" />
+    <configuration name="Run4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05scheduleAtFixedRate.Run4" />
+      <module name="part-05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4_2._01ReadWriteLockBegin1.*" />
+          <option name="PATTERN" value="_05scheduleAtFixedRate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run (1)" />
-        <item itemvalue="Application.Run (5)" />
-        <item itemvalue="Application.Run (4)" />
-        <item itemvalue="Application.Run" />
-        <item itemvalue="Application.Run (3)" />
+        <item itemvalue="Application.Run4" />
+        <item itemvalue="Application.Run1" />
+        <item itemvalue="Application.Run2" />
+        <item itemvalue="Application.Run3 (1)" />
+        <item itemvalue="Application.Run (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +204,9 @@
       <workItem from="1593648428462" duration="18423000" />
       <workItem from="1593684970720" duration="268000" />
       <workItem from="1593735069750" duration="20244000" />
-      <workItem from="1593842347470" duration="1297000" />
+      <workItem from="1593842347470" duration="5649000" />
+      <workItem from="1593943292294" duration="5993000" />
+      <workItem from="1594017346485" duration="2671000" />
     </task>
     <servers />
   </component>
